@@ -1,7 +1,9 @@
+import ClickDotChallenge from "./ClickDotChallenge"
+
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <ClickDotChallenge/>
     </div>
   )
 }
